@@ -1,0 +1,26 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(7.0.0)*%
+%TF.CreationDate,2023-03-13T20:07:15-03:00*%
+%TF.ProjectId,Acionamento BLDC,4163696f-6e61-46d6-956e-746f20424c44,rev?*%
+%TF.SameCoordinates,PX3f58108PY8a12ae0*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (7.0.0)) date 2023-03-13 20:07:15*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X0Y0D02*
+X0Y113322111D01*
+X143510000Y0D02*
+X0Y0D01*
+X143510000Y0D02*
+X143510000Y113322111D01*
+X143510000Y113322111D02*
+X0Y113322111D01*
+M02*

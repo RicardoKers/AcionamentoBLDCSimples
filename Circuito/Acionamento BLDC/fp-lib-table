@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "B1212s-1W")(type "KiCad")(uri "${KIPRJMOD}/B1212s-1W.pretty")(options "")(descr ""))
+)
